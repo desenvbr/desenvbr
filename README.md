@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hey 👋
 
-<!--
-**allanmonth/allanmonth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="center"> 
+<img src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" width="300px">
+</h4>
+<h4 align="left"> 
+	I'm Allan Monteiro!
+</h4>
 
-Here are some ideas to get you started:
+- 😎 Outlier
+- 👨🏼‍💻 Frontend Developer
+- 🚴 Cyclist
+- 🎾 Tennis Player
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4 align="center"> 
+<img src="https://media.giphy.com/media/M8PxVICV5KlezP1pGE/giphy.gif" width="300px">
+</h4>
+<h4 align="center"> 
+	Thanks for visiting
+</h4>
