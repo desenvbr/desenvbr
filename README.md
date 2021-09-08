@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allan monteiro</h1>
 <h3 align="center">I am a Front End Engineer, currently working with React, Next, JS, TS and more. I'm currently studying an MBA in CIO & IT MANAGEMENT, where I can improve myself in self-development, emotional intelligence, digital crime prevention, cloud, among other specializations. If you want to talk more, feel free to get in touch with me.</h3>
 
-- 👨‍💻 All of my projects are available at [https://allanmonth.vercel.app](https://allanmonth.vercel.app)
+- 👨‍💻 My portfolio [https://allanmonth.vercel.app](https://allanmonth.vercel.app)
 
 - 📝 I regularly write articles on [https://pingback.com/desenvbr](https://pingback.com/desenvbr)
 
@@ -20,7 +20,3 @@
 <h4 align="center"> 
 	Thanks for visiting
 </h4>
-
-Reach me out 👇🏼
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/allanarthurmonteiro//)](https://www.linkedin.com/in/desenvbr//) [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/allanaramont/)](https://www.instagram.com/allanaramont/) 
