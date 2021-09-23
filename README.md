@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan monteiro</h1>
-<h3 align="center">I am a Front End Engineer, currently working with React, Next, JS, TS and more. I'm currently studying an MBA in CIO & IT MANAGEMENT, where I can improve myself in self-development, emotional intelligence, digital crime prevention, cloud, among other specializations. If you want to talk more, feel free to get in touch with me.</h3>
+<h3 align="center">I am a Front End Engineer, currently working with React, Next, JS, TS and more. If you want to talk more, feel free to get in touch with me.</h3>
 
 - 👨‍💻 My portfolio [https://allanmonth.vercel.app](https://allanmont.vercel.app)
 
