@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Allan monteiro</h1>
+<h1 align="center">Hi 👋, I'm Allan Monteiro</h1>
 <h3 align="center">I am a Front End Engineer, currently working with React, Next, JS, TS and more. If you want to talk more, feel free to get in touch with me.</h3>
 
 - 👨‍💻 [My portfolio](https://allan.desenvbr.com)
