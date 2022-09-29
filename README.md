@@ -3,6 +3,10 @@
 
 - 👨‍💻 [My portfolio](https://allan.desenvbr.com)
 
+- 👨‍💻 [Youtube](https://www.youtube.com/channel/UCKO-VHbB-zj_vWkZPPFaqsQ)
+
+- 👨‍💻 [Instagram](https://www.instagram.com/desenv.br/)
+
 - 📝 I regularly write articles on [https://pingback.com/desenvbr](https://pingback.com/desenvbr)
 
 <h3 align="left">Connect with me:</h3>
