@@ -1,7 +1,5 @@
 # Allan Monteiro
 
-CTO [@DesenBRGroup](https://desenvbr.com).
-
 🚀 Javscript & Typescript Developer | +5 Years of Experience
 
 💻 Passionate about React and Next.js, I've built a career of +5 years translating concepts into code. Specialized in crafting incredible web experiences, I am driven by innovation and delivering efficient solutions.
@@ -14,10 +12,6 @@ I have contributed to the success of various challenging projects, leading teams
 
 🎓 Education:
 Graduated in Mobile Multiplatform Applications, and committed to continuous learning to stay ahead of the latest trends.
-
-🤝 [Let's Connect?](https://beacons.ai/desenvbr)
-Open to opportunities, partnerships, and knowledge exchanges. Let's build something amazing together!
-
 
 <details>
 
